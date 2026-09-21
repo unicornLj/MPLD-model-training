@@ -1,0 +1,12 @@
+# Paths refer to inputs prepared separately; these files are not included.
+inputs:
+  county_domain: E:/MPLD/resources/county_model_domain_362.csv
+outputs:
+  work: E:/MPLD/SU/run/01_training
+  models: E:/MPLD/SU/run/03_models
+model:
+  neighbors: 50
+  n_estimators: 200
+  max_features: sqrt
+  min_samples_leaf: 5
+  random_seed: 42

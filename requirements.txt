@@ -1,0 +1,18 @@
+# Python 3.10; versions used for the package checks. No full model retraining was performed.
+numpy==2.2.6
+pandas==2.3.3
+geopandas==1.1.1
+rasterio==1.4.3
+shapely==2.1.2
+pyproj==3.7.1
+scipy==1.15.2
+scikit-learn==1.7.1
+quantile-forest==1.4.2
+joblib==1.5.1
+PyYAML==6.0.2
+matplotlib==3.10.5
+pyarrow==21.0.0
+nbformat==5.11.1
+ipython==8.37.0
+ipykernel==7.3.0
+Pillow
